@@ -1,0 +1,22 @@
+{
+  "name": "prgm-lang-search",
+  "version": "1.0.0",
+  "description": "프로그래머스 프로그래밍 언어 검색 과제 테스트 코드 저장소입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gywlsp/prgm-lang-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gywlsp/prgm-lang-search/issues"
+  },
+  "homepage": "https://github.com/gywlsp/prgm-lang-search#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
