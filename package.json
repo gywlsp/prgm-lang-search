@@ -4,7 +4,8 @@
   "description": "프로그래머스 프로그래밍 언어 검색 과제 테스트 코드 저장소입니다.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -s"
   },
   "repository": {
     "type": "git",
